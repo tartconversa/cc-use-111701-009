@@ -10,7 +10,7 @@ class ExistingFlowTest(unittest.TestCase):
     def test_single_response_receipt(self):
         result=inspect(PACKET)
         self.assertEqual(result['source_id'],'source-a')
-        self.assertEqual(result['items'][0]['key'],'job-1')
+        self.assertEqual(result['items'][0]['key'],'row-1')
         self.assertEqual(len(result['response_sha256']),64)
 
     def test_bad_encoding_is_rejected(self):

@@ -8,5 +8,5 @@
       "application/json"
     ]
   ],
-  "body_base64": "eyJyZWNvcmRzIjogW3siam9iX2lkIjogImpvYi0xIiwgInJlcXVlc3RfZGlnZXN0IjogInItMSIsICJzdGF0ZSI6ICJwZW5kaW5nIiwgInJldmlzaW9uIjogMX1dfQ=="
+  "body_base64": "eyJyZWNvcmRzIjogW3sicm93X2lkIjogInJvdy0xIiwgImNhbXBhaWduX2lkIjogImMtMSIsICJhbW91bnQiOiAiMTI1MDAuMDAiLCAiYXBwcm92YWwiOiAicGVuZGluZyJ9XX0="
 }
